@@ -2,7 +2,7 @@ package controle;
 
 import java.util.Scanner;
 
-public class Programa01 {
+public class Programa02 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
